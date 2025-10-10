@@ -1,4 +1,4 @@
-# Ejercicio de laboratorio 3: ejecución de un programa con un error de tiempo de ejecución
+# Ejercicio de laboratorio 4: ejecución de un programa con un error de tiempo de ejecución
 
 ## 🛠️ Instrucciones
 
