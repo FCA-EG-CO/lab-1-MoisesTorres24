@@ -3,9 +3,9 @@
 
 ## 👤 Información del alumno
 
-- Nombre:
-- Matrícula:
-- Fecha:
+- Nombre: MOISES GERONIMO TORRES GONZALEZ
+- Matrícula: S25018144
+- Fecha: 10/10/2025
 
 ## 🎯 Objetivos
 
