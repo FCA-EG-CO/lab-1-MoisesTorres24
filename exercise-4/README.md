@@ -11,4 +11,4 @@
 
 ## ✅ Resultado
 
-(Añadir captura de pantalla del resultado de la ejecución)
+![resultado 4](./resultado4.png)

@@ -9,4 +9,4 @@
 
 ## ✅ Resultado
 
-(Añadir captura de pantalla del resultado de la ejecución)
+![Resultado del programa](./resultado1.png)

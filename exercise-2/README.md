@@ -9,4 +9,4 @@
 
 ## ✅ Resultado
 
-(Añadir captura de pantalla del resultado de la ejecución)
+![resultado 2](./resultado2.png)

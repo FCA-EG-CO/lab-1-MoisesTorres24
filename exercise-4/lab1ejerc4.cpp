@@ -4,28 +4,31 @@
 #include <iostream>
 using namespace std;
 
-int main() {
-  float firstNumber;
-  float secondNumber;
+int main()
+{
+     float firstNumber;
+     float secondNumber;
+     float temp;
 
-  // Solicitar al usuario que introduzca el primer número.
-  cout << "Ingrese el primer número" << endl;
-  cin >> firstNumber;
+     // Solicitar al usuario que introduzca el primer número.
+     cout << "Ingrese el primer número" << endl;
+     cin >> firstNumber;
 
-  // Solicitar al usuario que introduzca el segundo número.
-  cout << "Ingrese el segundo número" << endl;
-  cin >> secondNumber;
+     // Solicitar al usuario que introduzca el segundo número.
+     cout << "Ingrese el segundo número" << endl;
+     cin >> secondNumber;
 
-  // Imprimir los números.
-  cout << endl
-       << "Los números son " << firstNumber << " y " << secondNumber << endl;
+     // Imprimir los números.
+     cout << endl
+          << "Los números son " << firstNumber << " y " << secondNumber << endl;
 
-  // Ahora intercambiaremos los valores.
-  firstNumber = secondNumber;
-  secondNumber = firstNumber;
+     // Ahora intercambiaremos los valores.
+     temp = firstNumber;
+     firstNumber = secondNumber;
+     secondNumber = temp;
 
-  // Salida de los valores después del intercambio.
-  cout << "Ahora, los números son " << firstNumber << " y " << secondNumber
-       << endl;
-  return 0;
+     // Salida de los valores después del intercambio.
+     cout << "Ahora, los números son " << firstNumber << " y " << secondNumber
+          << endl;
+     return 0;
 }
